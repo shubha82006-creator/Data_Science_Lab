@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Student_ID,Name,Gender,Age,Department,Entrance_Exam_Score,High_School_Percentage,Admission_Status
 1001,Aarav,Male,18,CSE,92,94,Admitted
 1002,Ananya,Female,19,ISE,88,91,Admitted
@@ -19,3 +20,26 @@ Student_ID,Name,Gender,Age,Department,Entrance_Exam_Score,High_School_Percentage
 1018,Shreya,Female,19,ISE,96,98,Admitted
 1019,Manoj,Male,18,ME,65,70,Rejected
 1020,Aishwarya,Female,18,CSE,89,91,Admitted
+=======
+Student_ID,Name,Gender,Age,Department,Entrance_Exam_Score,High_School_Percentage,Admission_Status
+1001,Aarav,Male,18,CSE,92,94,Admitted
+1002,Ananya,Female,19,ISE,88,91,Admitted
+1003,Rohan,Male,18,ECE,71,76,Rejected
+1004,Priya,Female,18,CSE,95,97,Admitted
+1005,Vikram,Male,19,ME,62,69,Rejected
+1006,Sneha,Female,18,CSE,86,89,Admitted
+1007,Rahul,Male,18,EEE,75,78,Waitlisted
+1008,Diya,Female,19,ISE,91,93,Admitted
+1009,Karan,Male,18,CSE,67,72,Rejected
+1010,Nisha,Female,18,ECE,83,87,Admitted
+1011,Aditya,Male,19,CSE,90,92,Admitted
+1012,Kavya,Female,18,ME,74,79,Waitlisted
+1013,Harsha,Male,18,ISE,81,85,Admitted
+1014,Pooja,Female,18,CSE,93,95,Admitted
+1015,Arjun,Male,19,ECE,69,73,Rejected
+1016,Megha,Female,18,CSE,87,90,Admitted
+1017,Nikhil,Male,18,EEE,78,82,Waitlisted
+1018,Shreya,Female,19,ISE,96,98,Admitted
+1019,Manoj,Male,18,ME,65,70,Rejected
+1020,Aishwarya,Female,18,CSE,89,91,Admitted
+>>>>>>> e0151e3be60da541bded1de46ccb43e7305affa0
