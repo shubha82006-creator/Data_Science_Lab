@@ -1,0 +1,4 @@
+junction_id,avg_vehicle_count,max_vehicle_count,avg_speed,accident_count,total_records,High,Low,Moderate,Severe,primary_congestion_level
+J1,156.34,299.0,39.84,5,194,69,25,67,33,High
+J2,142.71,299.0,41.16,12,194,71,26,77,20,Moderate
+J3,159.98,295.0,39.78,4,194,70,26,61,37,High
