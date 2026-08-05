@@ -1,0 +1,11 @@
+Customer_ID,Age,Salary,City,Gender,Purchase_Date,Currency,Spending,Purchase_Frequency
+101,25,50000.0,Bangalore,Male,12/05/2024,INR,7000,10
+102,30,,Banglore,Female,2024-06-10,INR,12000,8
+103,-5,45000.0,Delhi,Male,10-May-24,USD,3000,5
+104,150,2000000.0,Mumbia,Female,2024/07/15,USD,40000,20
+105,40,65000.0,Bangaluru,Male,15/08/2024,INR,18000,12
+105,40,65000.0,Bangaluru,Male,15/08/2024,INR,18000,12
+106,29,,Mumbai,Female,2024-08-20,USD,9000,6
+107,35,72000.0,Delhii,Male,01-Jan-24,INR,25000,15
+108,22,38000.0,Bangalore,Female,2024-03-11,INR,2000,3
+109,55,,Delhi,Male,11/11/2024,USD,15000,9
